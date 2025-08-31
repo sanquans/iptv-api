@@ -1,26 +1,20 @@
 🕘️更新时间,#genre#
-2025-08-31 18:24:00,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-01 06:23:44,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
 CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
-CCTV-6,http://113.26.202.52:1299/tsfile/live/0006_1.m3u8
 CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-CCTV-7,http://113.26.202.52:1299/tsfile/live/0007_1.m3u8
 CCTV-8,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
 CCTV-8,http://222.129.32.255:4022/rtp/239.3.1.175:8001
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
-CCTV-9,http://113.26.202.52:1299/tsfile/live/0009_1.m3u8
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
-CCTV-10,http://113.26.202.52:1299/tsfile/live/0010_1.m3u8
-CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
@@ -41,20 +35,17 @@ CCTV-17,http://58.48.104.196:4022/rtp/239.69.1.152:10548
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-贵州卫视,http://58.19.252.68:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
-宁夏卫视,http://110.80.17.38:9999/tsfile/live/0016_1.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,http://110.80.17.38:9999/tsfile/live/0118_1.m3u8
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
+云南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1081_1.m3u8
 
 ☘️上海频道,#genre#
-上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 
 🌊港·澳·台,#genre#
@@ -81,8 +72,8 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🏀体育频道,#genre#
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
