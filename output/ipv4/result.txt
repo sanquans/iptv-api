@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-11 06:22:21,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-11 18:24:27,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-15,http://218.8.87.96:4000/rtp/229.58.190.127:5000
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
@@ -12,12 +13,18 @@ CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+黑龙江卫视,http://pa.kuangdeng.top:8081/hls/22/index.m3u8
+安徽卫视,http://pa.kuangdeng.top:8081/hls/35/index.m3u8
+东方卫视,http://pa.kuangdeng.top:8081/hls/26/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+贵州卫视,http://pa.kuangdeng.top:8081/hls/39/index.m3u8
+河北卫视,http://pa.kuangdeng.top:8081/hls/29/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://pa.kuangdeng.top:8081/hls/23/index.m3u8
 
 ☘️上海频道,#genre#
 五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140
@@ -46,10 +53,10 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
