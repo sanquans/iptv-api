@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-14 18:29:17,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-15 06:25:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -43,7 +43,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🎵音乐频道,#genre#
