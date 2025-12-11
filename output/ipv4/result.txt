@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 06:27:29,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-11 18:33:22,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -14,6 +14,7 @@ CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山西卫视,http://223.10.164.178:8459/rtp/239.1.1.1:8001
 
 ☘️上海频道,#genre#
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
