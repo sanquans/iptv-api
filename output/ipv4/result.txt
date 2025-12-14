@@ -1,9 +1,15 @@
 🕘️更新时间,#genre#
-2025-12-14 06:25:36,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-14 18:28:02,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
+CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
+CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
+CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
+CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -44,6 +50,7 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🎵音乐频道,#genre#
+风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
