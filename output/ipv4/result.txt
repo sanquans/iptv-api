@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-12-29 18:32:03,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
+2025-12-30 06:27:09,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
-CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
@@ -13,12 +12,10 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖北卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 海南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -46,14 +43,12 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 Now华剧,http://rihou.cc:555/tv/[Hk]Now华剧
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 天津体育,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858
 
