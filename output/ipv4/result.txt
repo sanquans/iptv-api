@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-04-11 06:45:43,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-04-11 18:43:03,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-2,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV2
@@ -23,8 +23,9 @@ CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-7,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV7
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-8,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV8
-CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b0f8d5d1315a56f43bb61e81d9278ee
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-10,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -32,8 +33,8 @@ CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-11,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV11
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV12
-CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
 CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
@@ -42,16 +43,16 @@ CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-15,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
 CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV-17,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV17
+CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
