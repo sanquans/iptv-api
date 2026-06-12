@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-12 21:32:13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+2026-06-13 07:24:21,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 
 📺央视频道,#genre#
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
@@ -11,21 +11,18 @@ CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-16,http://198.204.228.26/live/cctv16hd.m3u8
-CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e2663266667c46ddf7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e2663266667c46ddf7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
-安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
-安徽卫视,http://207.56.13.146:81/cdnlive/ahws.m3u8
+安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
@@ -33,8 +30,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8
-陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-四川卫视,http://www.taoli.website:23234/rtp/239.3.1.29:8288
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 西藏卫视,http://198.204.228.26/live/xzws.m3u8
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
@@ -55,12 +50,9 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 🏀体育频道,#genre#
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🎵音乐频道,#genre#
-风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
