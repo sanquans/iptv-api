@@ -1,21 +1,15 @@
 🕘️更新时间,#genre#
-2026-06-25 20:28:47,http://223.75.149.129:9906/tsfile/live/0005_1.m3u8?key=txiptv
+2026-06-26 07:24:44,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
-CCTV-5,http://223.75.149.129:9906/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-6,http://223.75.149.129:9906/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-10,http://173.208.212.130:8181/720p/cctv10.m3u8
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/playlist.m3u8?keeptime=00093a80&wsSecret=1bebd13d7482ab1a6f4971ff549fa2e0&wsTime=6a349a1b&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260619092339689A6E65E32436425877-oeHxgW
-CCTV-16,http://173.208.212.130:8181/720p/cctv16.m3u8
-CETV-1,http://8.153.110.51:3020/923287154
 
 📡卫视频道,#genre#
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖北卫视,http://223.75.149.129:9906/tsfile/live/0132_1.m3u8?key=txiptv
 黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 东方卫视,http://204.12.221.218:8181/3m1080p/dfws.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
