@@ -1,12 +1,14 @@
 🕘️更新时间,#genre#
-2026-06-28 07:10:32,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-06-28 19:51:38,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
+CCTV-11,http://223.75.149.129:9906/tsfile/live/0011_1.m3u8?key=txiptv
 
 📡卫视频道,#genre#
+浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
@@ -17,8 +19,10 @@ CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
 
 ☘️上海频道,#genre#
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 
 🌊港·澳·台,#genre#
