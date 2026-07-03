@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-03 20:13:46,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-04 07:12:00,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -7,22 +7,17 @@ CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 
 📡卫视频道,#genre#
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
+湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://223.75.149.129:9906/tsfile/live/0131_1.m3u8?key=txiptv
 
 ☘️上海频道,#genre#
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
@@ -36,8 +31,8 @@ CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 
 🏀体育频道,#genre#
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🎵音乐频道,#genre#
