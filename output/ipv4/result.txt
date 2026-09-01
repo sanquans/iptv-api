@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-01 01:32:24,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+2026-09-01 09:10:03,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
@@ -14,18 +14,18 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-河北卫视,http://125.125.234.143:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
-山东卫视,http://125.125.234.143:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
 ☘️上海频道,#genre#
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
